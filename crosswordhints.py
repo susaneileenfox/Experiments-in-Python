@@ -3,6 +3,7 @@ This file contains a program that prompts the user to
 enter patterns and it prints all the words in the official
 crossword dictionary that match that pattern."""
 
+## WRITTEN FOR PYTHON 2
 
 # NOTE:  ALL TESTS ARE AT THE BOTTOM OF THE FILE
 
